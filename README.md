@@ -1,13 +1,9 @@
 # OrangeHRM Playwright Automation
-## OSTAD Course Final Project Assignment
+## Assignment from ROAD TO SDET
 
-- **Course:** SQA: Manual & Automation Testing
-- **Batch:** 18
 - **Project:** OrangeHRM Playwright Automation
 
 ## Project Overview
-
-This project is the final project assignment for the Ostad SQA: Manual & Automation Testing course. It demonstrates practical knowledge and implementation of Software Quality Assurance through UI automation, manual testing, API automation, test reporting, and CI workflow.
 
 The project covers:
 
@@ -97,7 +93,7 @@ npm --version
 Clone the repository:
 
 ```bash
-git clone https://github.com/meem089/orangehrm-playwright-automation.git
+git clone https://github.com/Wasiur195/orangehrm-playwright-automation/tree/main
 ```
 
 Go to the project folder:
@@ -300,12 +296,13 @@ The project was developed incrementally with meaningful commits for different pa
 
 ## Author
 
-**Sanzida Akter Meem**
+**Wasiur Rahman**
 
 GitHub:
 
-https://github.com/meem089
+https://github.com/Wasiur195
 
 LinkedIn:
+https://www.linkedin.com/in/wasiurrahman1102/
 
 https://linkedin.com/in/sanzida-akter-meem-697884331
